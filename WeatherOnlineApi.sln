@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMvcExample", "AspNetMvcExample\AspNetMvcExample.csproj", "{1ADE762C-3CE4-4A0E-BB6D-EDE035BE0CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldWeatherOnline", "WorldWeatherOnline\WorldWeatherOnline.csproj", "{3836219B-2912-4957-9361-E68AC325604E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADE762C-3CE4-4A0E-BB6D-EDE035BE0CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADE762C-3CE4-4A0E-BB6D-EDE035BE0CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADE762C-3CE4-4A0E-BB6D-EDE035BE0CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADE762C-3CE4-4A0E-BB6D-EDE035BE0CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3836219B-2912-4957-9361-E68AC325604E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3836219B-2912-4957-9361-E68AC325604E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3836219B-2912-4957-9361-E68AC325604E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3836219B-2912-4957-9361-E68AC325604E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88447CD5-1833-4E7E-9362-BBD23325854A}
+	EndGlobalSection
+EndGlobal
